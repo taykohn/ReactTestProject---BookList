@@ -1,7 +1,7 @@
 # ReduxSimpleStarter
 
 This project was created using Stephen Grider's Udemy React/Redux course.
-<br />>
+<br />
 The source project is found at https://github.com/StephenGrider/ReduxSimpleStarter
 <br />
 The Udemy course is located at https://www.udemy.com/react-redux/learn/v4/overview
