@@ -6,7 +6,7 @@ The source project is found at https://github.com/StephenGrider/ReduxSimpleStart
 <br />
 The Udemy course is located at https://www.udemy.com/react-redux/learn/v4/overview
 <br />
-The goal of this project is to gain a basic understanding of React/Redux
+The goal of this project is to gain a basic understanding of React/Redux. Concepts covered are basic actions, 
 
 
 
