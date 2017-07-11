@@ -17,7 +17,7 @@ class BookDetail extends Component {
   }
 }
 
-// See notes on mapSTateToProps and connect function in book-list.js
+// See notes on mapStateToProps and connect function in book-list.js
 function mapStateToProps(state) {
   return {
     book: state.activeBook
