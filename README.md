@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter - Book List
 
 This project was created using Stephen Grider's Udemy React/Redux course.
 <br />
